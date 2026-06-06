@@ -12,7 +12,7 @@ LINK REPO
 | Name            | Link |
 |-----------------|---------|
 | Flora     | Flora |
-| Winston       | Winston |
+| Winston       | [Winston](https://github.com/Winstontons) |
 | Rafi | Rafi  |
 
 DAY 1
