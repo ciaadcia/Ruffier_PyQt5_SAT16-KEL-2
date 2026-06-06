@@ -11,7 +11,7 @@ About : Tes Ruffier membantu pengguna menilai keadaan sistem kardiovaskular tubu
 LINK REPO
 | Name            | Link |
 |-----------------|---------|
-| Flora     | Flora |
+| Flora     | [Flora](https://github.com/FleurDeNoir) |
 | Winston       | [Winston](https://github.com/Winstontons) |
 | Rafi | Rafi  |
 
