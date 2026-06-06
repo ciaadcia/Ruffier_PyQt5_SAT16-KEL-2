@@ -22,3 +22,10 @@ DAY 1
 | instr.py        | Winston |
 | second_win.py   | Flora |
 | final_win.py    | Flora |
+
+DAY 2
+| File            | Name |
+|-----------------|---------|
+| instr.py        | Flora |
+| second_win.py   | Winston |
+| final_win.py    | Rafi |
